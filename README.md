@@ -12,15 +12,25 @@ The data consists of records of roughly 52000 instances and 11 features.
 There are 10 independent variables and 1 target that describes whether the insurances will be claimed or not.
 
 Target: Claim Status (Claim)
+
 Name of agency (Agency)
+
 Type of travel insurance agencies (Agency.Type)
+
 Distribution channel of travel insurance agencies (Distribution.Channel)
+
 Name of the travel insurance products (Product.Name)
+
 Duration of travel (Duration)
+
 Destination of travel (Destination)
+
 Amount of sales of travel insurance policies (Net.Sales)
+
 The commission received for travel insurance agency (Commission)
+
 Age of insured (Age)
+
 The identification record of every observation (ID)
 
 
@@ -36,3 +46,5 @@ appliedai
 greyatom
 
 wikipidea
+
+kaggle
